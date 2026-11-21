@@ -1,0 +1,14 @@
+{
+  "name": "vidu-video-webservice",
+  "version": "1.0.0",
+  "description": "Web service to call Vidu video generation APIs (reference / image / start-end / multi-frame) with every parameter adjustable in the browser.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
